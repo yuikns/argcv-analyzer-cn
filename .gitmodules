@@ -1,6 +1,6 @@
 [submodule "lib/argcv"]
 	path = lib/argcv
-	url = git@github.com:argcv/argcv.git
+	url = git@github.com:yuikns/argcv.git
 	branch = master
 [submodule "data/lexicon"]
 	path = data/lexicon
